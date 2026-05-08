@@ -35,3 +35,8 @@ GTKWave was used to analyze the waveform generated during simulation. The wavefo
 This project provided practical knowledge of Verilog HDL programming, combinational logic design, simulation techniques, and waveform analysis. It also improved understanding of digital circuit implementation and verification using industry-related tools. The project serves as a strong foundation for learning advanced digital system design, VLSI concepts, and embedded system applications.
 
 In conclusion, the Arithmetic Logic Unit was successfully designed and simulated using Verilog HDL. The ALU correctly performed arithmetic and logical operations according to the select signal inputs. The project achieved all objectives and demonstrated the proper functioning of the ALU through simulation and waveform verification using Icarus Verilog and GTKWave.
+
+
+OUTPUT
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9ecc48f2-14c8-43e5-8dc3-34ac10dbd6df" />
